@@ -5,4 +5,4 @@
 
 # HUD 3D Sci-Fi
 
-_VFX Graph in Unity 6 URP Sci-Fi style_
+_VFX Graph in Unity 6 URP, HUD 3D Sci-Fi_
